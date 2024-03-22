@@ -1,6 +1,6 @@
 # Cardio Good Fitness Presentation
 
-![image](https://github.com/joanneabioye/CardioGoodFitness-Presentation/assets/153685683/41849615-57a3-43b5-abdc-6cfda36963a6)
+![image](https://github.com/joanneabioye/CardioGoodFitness-Presentation/assets/153685683/7979a720-50b1-4ff7-b202-035fc74264e8)
 
 ![image](https://github.com/joanneabioye/CardioGoodFitness-Presentation/assets/153685683/2bafab25-8341-4ccb-a902-2331d571d376)
 
